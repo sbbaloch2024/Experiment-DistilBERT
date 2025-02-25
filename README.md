@@ -1,5 +1,3 @@
-# Experiment-DistilBERT
-
 # DistilBERT for Text Classification on CoLA (GLUE Benchmark)
 
 This project fine-tunes the **DistilBERT** transformer model for sequence classification using the **CoLA dataset** from the GLUE benchmark. The CoLA dataset is designed for linguistic acceptability classification.
